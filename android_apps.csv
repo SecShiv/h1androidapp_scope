@@ -74,10 +74,10 @@ playtika,com.pacificinteractive.HouseOfFun,True
 playtika,fi.reworks.redecor,True
 playtika,com.jellybtn.cashkingmobile,True
 playtika,com.playtika.caesarscasino,True
+playtika,air.com.buffalo_studios.newflashbingo,True
 playtika,com.Seriously.BestFiends,True
 playtika,air.com.playtika.cvs,True
 playtika,air.com.playtika.slotomania,True
-playtika,air.com.buffalo_studios.newflashbingo,True
 xverse,com.secretkeylabs.xverse,False
 vodafone_oman,om.vodafone.mva,True
 netflix,Netflix Mobile Application for Android,True
@@ -122,12 +122,12 @@ aboitizpower_corporation,https://play.google.com/store/apps/details?id=com.aboit
 aboitizpower_corporation,https://play.google.com/store/apps/details?id=com.outsystemsenterprise.apc1.DXPApp,False
 aboitizpower_corporation,https://play.google.com/store/apps/details?id=com.aboitiz.watch,False
 freshworks,com.freshservice.helpdesk.intune,True
-freshworks,com.freshworks.freshcaller,True
 freshworks,com.freshservice.helpdesk,True
+freshworks,com.freshworks.freshcaller,True
 freshworks,com.freshdesk.helpdesk,True
 freshworks,com.freshchat.agent.android,True
-kolesagroup,kz.kolesa,True
 kolesagroup,kz.krisha,True
+kolesagroup,kz.kolesa,True
 kolesagroup,uz.avtoelon,True
 ring,com.ringapp,True
 ring,com.ring.neighborhoods,True
@@ -308,16 +308,15 @@ amazonvrp,com.amazon.vendormobile.android,True
 amazonvrp,com.amazon.mp3.automotiveOS,True
 amazonvrp,com.amazon.minitv.android.app,True
 amazonvrp,com.amazon.swa.mobileapp,True
-amazonvrp,com.amazon.ihm.candycane,True
 amazonvrp,com.amazon.enterprise.access.android,True
-amazonvrp,com.amazon.warhol.android,True
+amazonvrp,com.amazon.ihm.candycane,True
 amazonvrp,amazon.speech.sim,True
+amazonvrp,com.amazon.warhol.android,True
 amazonvrp,com.amazon.helix.prod,True
 amazonvrp,in.amazon.mShop.android.business.shopping,True
+amazonvrp,com.amazon.aba.application,True
 amazonvrp,com.amazon.mShop.android.business.shopping,True
-amazonvrp,com.amazon.flex.rabbit,True
 amazonvrp,com.localqueen,True
-amazonvrp,com.amazon.kisan.app,True
 glassdoor,com.glassdoor.app,True
 glassdoor,com.fishbowlmedia.fishbowl,True
 picsart,com.picsart.studio,False
@@ -337,8 +336,8 @@ capital-one,com.capitalone.atwork,False
 capital-one,com.capitalone.credittracker,False
 capital-one,com.ie.capitalone.uk,False
 capital-one,com.capitalone.tz,False
-capital-one,com.capitalone.intellix.mobile.prod,False
 capital-one,ca.capitalone.enterprisemobilebanking,False
+capital-one,com.capitalone.intellix.mobile.prod,False
 starling_bank,com.starlingbank.android,False
 creditkarma,com.creditkarma.mobile.international,True
 creditkarma,com.creditkarma.mobile,True
@@ -355,9 +354,9 @@ hyatt,com.Hyatt,True
 grammarly,com.grammarly.android.keyboard,True
 fanduel,com.fanduel.sportsbook,True
 fanduel,com.fanduel.android.self,True
+fanduel,com.fanduel.flywheelnativecontainer.picks,True
 fanduel,com.fanduel.casino,True
 fanduel,com.fanduel.racing,True
-fanduel,com.fanduel.flywheelnativecontainer.picks,True
 smule,com.smule.magicpiano.*,False
 smule,com.smule.autorap.*,False
 smule,com.smule.singandroid.*,False
@@ -375,7 +374,6 @@ goldmansachs,com.gs.pwmdigital.external.android,True
 goldmansachs,com.gs.mobile.trader,True
 goldmansachs,com.marcus.android,True
 goldmansachs,com.gs.mobile.gsnow,True
-goldmansachs,com.gs.pfmg.wellness,True
 valve,com.valvesoftware.Steam,True
 crypto,co.mona.android,True
 crypto,com.defi.wallet,True
@@ -410,8 +408,8 @@ yelp,com.yelp.android.biz,True
 yelp,com.yelp.android,True
 nextcloud,it.niedermann.owncloud.notes,True
 moneybird,com.moneybird.android,True
-eternal,com.application.zomatomerchant,False
 eternal,com.grofers.customerapp,True
+eternal,com.application.zomatomerchant,False
 eternal,com.application.zomato.district,True
 eternal,com.blinkit.bistro,True
 eternal,com.application.zomato,True

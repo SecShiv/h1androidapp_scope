@@ -2,7 +2,7 @@
 hackerone "in-scope" apps
 
 `python3 h1androidapp.py`
-## Android Apps with Bounties (Last Updated Fri Aug 29 21:57:54 UTC 2025)
+## Android Apps with Bounties (Last Updated Fri Aug 29 22:12:58 UTC 2025)
 ```
 com.playtika.caesarscasino
 com.amazon.relay

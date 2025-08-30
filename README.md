@@ -2,7 +2,7 @@
 hackerone "in-scope" apps
 
 `python3 h1androidapp.py`
-## Android Apps with Bounties (Last Updated Sat Aug 30 04:26:07 UTC 2025)
+## Android Apps with Bounties (Last Updated Sat Aug 30 05:20:03 UTC 2025)
 ```
 https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/e5213e1a814bf0ba/public-install-page/bed0d33f048271d6828c5a4a979ecc96
 company.thebrowser.arc

@@ -1,8 +1,15 @@
 import requests
 import json
 import re
+import time
+import random
 
 query_url = "https://hackerone.com/programs/search?query=type:hackerone&sort=published_at:descending&page={page}"
+
+headers = {
+    "Accept": "application/json",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+}
 
 policy_scope_query = """
 query PolicySearchStructuredScopesQuery($handle: String!) {
@@ -40,6 +47,17 @@ query TeamAssets($handle: String!) {
 }
 """
 
+def safe_request(session, method, url, **kwargs):
+    for attempt in range(3):
+        try:
+            r = session.request(method, url, timeout=10, **kwargs)
+            if r.status_code == 200:
+                return r
+        except requests.RequestException:
+            pass
+        time.sleep(2 ** attempt)  # exponential backoff
+    return None
+
 def hackerone_android_list():
     targets = {"android_apps": [], "android_with_bounty": []}
     csv_android = [["handle", "android_app", "eligible_for_bounty"]]
@@ -47,16 +65,21 @@ def hackerone_android_list():
     page = 1
     with requests.Session() as session:
         while True:
-            r = session.get(query_url.format(page=page))
+            r = safe_request(session, "GET", query_url.format(page=page))
+            if not r:
+                break
             page += 1
             if r.status_code != 200:
                 break
             resp = json.loads(r.text)
 
             for program in resp["results"]:
-                r = session.get(
+                custom_headers = headers.copy()
+                custom_headers.update({"Accept": "application/json"})
+                r = safe_request(
+                    session, "GET",
                     f"https://hackerone.com{program['url']}",
-                    headers={"Accept": "application/json"},
+                    headers=custom_headers
                 )
                 if r.status_code != 200:
                     continue
@@ -65,12 +88,15 @@ def hackerone_android_list():
                 # new scope
                 query = json.dumps({
                     "query": policy_scope_query,
-                    "variables": {"handle": resp["handle"]},
+                    "variables": {"handle": program["handle"]},
                 })
-                r = session.post(
+                custom_headers = headers.copy()
+                custom_headers.update({"content-type": "application/json"})
+                r = safe_request(
+                    session, "POST",
                     "https://hackerone.com/graphql",
                     data=query,
-                    headers={"content-type": "application/json"},
+                    headers=custom_headers
                 )
                 policy_scope_resp = json.loads(r.text)
 
@@ -88,17 +114,20 @@ def hackerone_android_list():
                             bounty = e["eligible_for_bounty"] or False
                             if bounty:
                                 targets["android_with_bounty"].append(app)
-                            csv_android.append([resp["handle"], app, str(bounty)])
+                            csv_android.append([program["handle"], app, str(bounty)])
 
                 # old scope
                 query = json.dumps({
                     "query": scope_query,
-                    "variables": {"handle": resp["handle"]},
+                    "variables": {"handle": program["handle"]},
                 })
-                r = session.post(
+                custom_headers = headers.copy()
+                custom_headers.update({"content-type": "application/json"})
+                r = safe_request(
+                    session, "POST",
                     "https://hackerone.com/graphql",
                     data=query,
-                    headers={"content-type": "application/json"},
+                    headers=custom_headers
                 )
                 scope_resp = json.loads(r.text)
 
@@ -114,7 +143,9 @@ def hackerone_android_list():
                             bounty = node["eligible_for_bounty"] or False
                             if bounty:
                                 targets["android_with_bounty"].append(app)
-                            csv_android.append([resp["handle"], app, str(bounty)])
+                            csv_android.append([program["handle"], app, str(bounty)])
+            
+                time.sleep(random.uniform(0.5, 1.5))
 
     # dedupe
     targets["android_apps"] = list(set(targets["android_apps"]))
@@ -130,3 +161,4 @@ if __name__ == "__main__":
         f.write("\n".join(targets["android_with_bounty"]))
     with open("android_apps.csv", "w") as f:
         f.write("\n".join([",".join(e) for e in csv_android]))
+      

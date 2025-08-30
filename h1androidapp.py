@@ -3,6 +3,7 @@ import json
 import re
 import time
 import random
+import itertools
 
 query_url = "https://hackerone.com/programs/search?query=type:hackerone&sort=published_at:descending&page={page}"
 
@@ -109,6 +110,7 @@ def hackerone_android_list():
                         )
                     ):
                         app = e["identifier"]
+                        app = app.strip()
                         if app not in targets["android_apps"]:
                             if not app.startswith("https://play.google.com") and re.match(r"^[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+)+(\.\*)?$", app):
                                 app = f"https://play.google.com/store/apps/details?id={app}"
@@ -140,6 +142,7 @@ def hackerone_android_list():
                         or "play.google.com/store/apps" in node["asset_identifier"].lower()
                     ):
                         app = node["asset_identifier"]
+                        app = app.strip()
                         if not app.startswith("https://play.google.com") and re.match(r"^[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+)+(\.\*)?$", app):
                             app = f"https://play.google.com/store/apps/details?id={app}"
                         if app not in targets["android_apps"]:
@@ -150,7 +153,7 @@ def hackerone_android_list():
                             csv_android.append([program["handle"], app, str(bounty)])
             
                 time.sleep(random.uniform(0.5, 1.5))
-            time.sleep(random.uniform(1.5, 2.5))
+            time.sleep(random.uniform(2.5, 3.5))
 
     # dedupe
     targets["android_apps"] = list(set(targets["android_apps"]))

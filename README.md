@@ -2,7 +2,7 @@
 hackerone "in-scope" apps
 
 `python3 h1androidapp.py`
-## Android Apps with Bounties (Last Updated Sat Aug 30 02:58:41 UTC 2025)
+## Android Apps with Bounties (Last Updated Sat Aug 30 03:34:24 UTC 2025)
 ```
 com.Seriously.BestFiends
 com.truecaller

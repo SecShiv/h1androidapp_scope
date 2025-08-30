@@ -91,7 +91,7 @@ def hackerone_android_list():
                     "variables": {"handle": program["handle"]},
                 })
                 custom_headers = headers.copy()
-                custom_headers.update({"content-type": "application/json"})
+                custom_headers.update({"Content-Type": "application/json"})
                 r = safe_request(
                     session, "POST",
                     "https://hackerone.com/graphql",
@@ -110,6 +110,8 @@ def hackerone_android_list():
                     ):
                         app = e["identifier"]
                         if app not in targets["android_apps"]:
+                            if not app.startswith("https://play.google.com") and re.match(r"^[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+)+(\.\*)?$", app):
+                                app = f"https://play.google.com/store/apps/details?id={app}"
                             targets["android_apps"].append(app)
                             bounty = e["eligible_for_bounty"] or False
                             if bounty:
@@ -122,7 +124,7 @@ def hackerone_android_list():
                     "variables": {"handle": program["handle"]},
                 })
                 custom_headers = headers.copy()
-                custom_headers.update({"content-type": "application/json"})
+                custom_headers.update({"Content-Type": "application/json"})
                 r = safe_request(
                     session, "POST",
                     "https://hackerone.com/graphql",
@@ -138,6 +140,8 @@ def hackerone_android_list():
                         or "play.google.com/store/apps" in node["asset_identifier"].lower()
                     ):
                         app = node["asset_identifier"]
+                        if not app.startswith("https://play.google.com") and re.match(r"^[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+)+(\.\*)?$", app):
+                            app = f"https://play.google.com/store/apps/details?id={app}"
                         if app not in targets["android_apps"]:
                             targets["android_apps"].append(app)
                             bounty = node["eligible_for_bounty"] or False
@@ -145,7 +149,8 @@ def hackerone_android_list():
                                 targets["android_with_bounty"].append(app)
                             csv_android.append([program["handle"], app, str(bounty)])
             
-                time.sleep(random.uniform(0.5, 1.5))
+                time.sleep(random.uniform(0.5, 0.5))
+            time.sleep(random.uniform(1.5, 2.5))
 
     # dedupe
     targets["android_apps"] = list(set(targets["android_apps"]))
@@ -161,4 +166,3 @@ if __name__ == "__main__":
         f.write("\n".join(targets["android_with_bounty"]))
     with open("android_apps.csv", "w") as f:
         f.write("\n".join([",".join(e) for e in csv_android]))
-      

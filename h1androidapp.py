@@ -152,7 +152,7 @@ def hackerone_android_list():
                                 targets["android_with_bounty"].append(app)
                             csv_android.append([program["handle"], app, str(bounty)])
             
-                time.sleep(random.uniform(0.5, 1.5))
+                time.sleep(random.uniform(1.5, 2.5))
             time.sleep(random.uniform(2.5, 3.5))
 
     # dedupe

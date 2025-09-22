@@ -100,8 +100,8 @@ mercadolibre,https://play.google.com/store/apps/details?id=com.mercadoenvios.dri
 mercadolibre,https://play.google.com/store/apps/details?id=com.mercadoenvios.crowdsourcing,True
 mercadolibre,https://play.google.com/store/apps/details?id=com.mercadoenvios.logistics,True
 temu,https://play.google.com/store/apps/details?id=com.einnovation.temu,True
-bookingcom,https://play.google.com/store/apps/details?id=com.booking.hotelmanager&hl=en,True
 bookingcom,https://play.google.com/store/apps/details?id=com.booking&hl=en,True
+bookingcom,https://play.google.com/store/apps/details?id=com.booking.hotelmanager&hl=en,True
 bybit_fintech,https://play.google.com/store/apps/details?id=com.bybit.app&hl=en,True
 fronthq,https://play.google.com/store/apps/details?id=com.frontapp.mobile,True
 boozt,https://play.google.com/store/apps/details?id=com.booztlet,True
@@ -241,10 +241,10 @@ scopely,https://play.google.com/store/apps/details?id=air.com.bitrhymes.bingo,Fa
 scopely,https://play.google.com/store/apps/details?id=com.scopely.startrek,True
 scopely,https://play.google.com/store/apps/details?id=com.aqupepgames.projectpepe,False
 scopely,https://play.google.com/store/apps/details?id=com.foxnextgames.m3,True
+scopely,https://play.google.com/store/apps/details?id=com.gsn.android.casino,False
 scopely,https://play.google.com/store/apps/details?id=com.scopely.yux,True
 scopely,https://play.google.com/store/apps/details?id=com.pieyel.scrabble,True
 scopely,https://play.google.com/store/apps/details?id=com.gsn.android.tripeaks,False
-scopely,https://play.google.com/store/apps/details?id=com.gsn.android.casino,False
 scopely,https://play.google.com/store/apps/details?id=com.withbuddies.dice.free,True
 scopely,https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies,True
 scopely,https://play.google.com/store/apps/details?id=com.scopely.monopolygo,True
@@ -260,8 +260,8 @@ tiktok,https://play.google.com/store/apps/details?id=com.zhiliao.musically.livew
 tiktok,https://play.google.com/store/apps/details?id=com.tiktok.tv,True
 tiktok,https://play.google.com/store/apps/details?id=com.tiktokshop.seller,True
 tiktok,https://play.google.com/store/apps/details?id=com.ss.android.ugc.now,True
-tiktok,https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill,True
 tiktok,https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically,True
+tiktok,https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill,True
 logitech,https://play.google.com/store/apps/details?id=com.logitech.logue,True
 logitech,https://play.google.com/store/apps/details?id=com.logitech.ueboom,True
 enjin,https://play.google.com/store/apps/details?id=com.enjin.mobile.wallet,True
@@ -374,7 +374,6 @@ goldmansachs,https://play.google.com/store/apps/details?id=com.gs.pwmdigital.ext
 goldmansachs,https://play.google.com/store/apps/details?id=com.gs.mobile.trader,True
 goldmansachs,https://play.google.com/store/apps/details?id=com.marcus.android,True
 goldmansachs,https://play.google.com/store/apps/details?id=com.gs.mobile.gsnow,True
-goldmansachs,https://play.google.com/store/apps/details?id=com.gs.pfmg.wellness,True
 valve,https://play.google.com/store/apps/details?id=com.valvesoftware.Steam,True
 crypto,https://play.google.com/store/apps/details?id=co.mona.android,True
 crypto,https://play.google.com/store/apps/details?id=com.defi.wallet,True

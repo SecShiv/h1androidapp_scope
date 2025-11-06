@@ -2,7 +2,7 @@
 hackerone "in-scope" apps
 
 `python3 h1androidapp.py`
-## Android Apps with Bounties (Last Updated Thu Nov  6 13:04:22 UTC 2025)
+## Android Apps with Bounties (Last Updated Thu Nov  6 13:36:09 UTC 2025)
 ```
 https://play.google.com/store/apps/details?id=com.playtika.wsop.gp
 https://play.google.com/store/apps/details?id=air.com.buffalo_studios.newflashbingo

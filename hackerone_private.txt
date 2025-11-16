@@ -64,6 +64,7 @@ https://hackerone.com/2dff9ce7-7d9c-4b2f-92e5-04b9067fa55b/embedded_submissions/
 https://hackerone.com/2e44b780-bd78-453b-9731-cf7c4424a772/embedded_submissions/new
 https://hackerone.com/2e6793b1-d580-4172-9ba3-04c98cdfb478/embedded_submissions/new
 https://hackerone.com/322af990-40e5-4645-8fd7-a2c2a258e60d/embedded_submissions/new
+https://hackerone.com/34160193-e594-4c17-ad4d-27e0cbf22f70/embedded_submissions/new
 https://hackerone.com/350c8213-0502-40c4-ab13-073e31fe8559/embedded_submissions/new
 https://hackerone.com/35776f29-7e24-4fef-b835-476acb2f4123/embedded_submissions/new
 https://hackerone.com/359b7e56-ddf7-4da2-a22a-ffb25a84c07f/embedded_submissions/new
@@ -99,6 +100,7 @@ https://hackerone.com/4e813bb9-4f1f-46aa-ae97-b9e4d78160e5/embedded_submissions/
 https://hackerone.com/50162df4-13ef-4601-8e4f-923221e5d94a/embedded_submissions/new
 https://hackerone.com/5093805e-4e52-474b-ba7f-5c04a7ba10e7/embedded_submissions/new
 https://hackerone.com/510b872e-b2b7-432e-af50-935b61281ee5/embedded_submissions/new
+https://hackerone.com/510b872e-b2b7-432e-af50-935b61281ee5/embedded_submissions/new?locale=en
 https://hackerone.com/52fa7bc0-5356-4c86-9f79-eeb03e1d55cc/embedded_submissions/new
 https://hackerone.com/539f9143-afe7-4fae-a0ad-3efa5ed2cd46/embedded_submissions/new
 https://hackerone.com/53fe6578-a2e4-426b-89e9-3c81b714c8cf/embedded_submissions/new
@@ -140,6 +142,7 @@ https://hackerone.com/6cde2ff5-3e86-4e2a-b426-34d5db004150/embedded_submissions/
 https://hackerone.com/6cde2ff5-3e86-4e2a-b426-34d5db004150/embedded_submissions/new/
 https://hackerone.com/6cde2ff5-3e86-4e2a-b426-34d5db004150/embedded_submissions/new?subject=
 https://hackerone.com/6e95df81-34a6-49a5-83e3-d24cd6212f48/embedded_submissions/new
+https://hackerone.com/6ec07158-e0ad-49a6-8f1b-7ed219ecf696/embedded_submissions/new
 https://hackerone.com/6f26eb8c-3646-48d0-a088-43296e1973ce/embedded_submissions/new
 https://hackerone.com/71aa4363-bf7c-47b7-be26-38c83a3ff845/embedded_submissions/new
 https://hackerone.com/7228829b-60a4-4084-9436-e81bd6d70420/embedded_submissions/new

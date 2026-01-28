@@ -2,7 +2,7 @@
 hackerone "in-scope" apps
 
 `python3 h1androidapp.py`
-## Android Apps with Bounties (Last Updated Wed Jan 28 13:14:54 UTC 2026)
+## Android Apps with Bounties (Last Updated Wed Jan 28 14:02:17 UTC 2026)
 ```
 https://play.google.com/store/apps/details?id=net.wooga.switchcraft.googleplay
 https://play.google.com/store/apps/details?id=com.twitter.android

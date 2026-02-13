@@ -2,7 +2,7 @@
 hackerone "in-scope" apps
 
 `python3 h1androidapp.py`
-## Android Apps with Bounties (Last Updated Fri Feb 13 11:49:36 UTC 2026)
+## Android Apps with Bounties (Last Updated Fri Feb 13 13:15:20 UTC 2026)
 ```
 https://play.google.com/store/apps/details?id=com.jellybtn.boardkings
 https://play.google.com/store/apps/details?id=com.konylabs.capitalone

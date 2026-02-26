@@ -2,7 +2,7 @@
 hackerone "in-scope" apps
 
 `python3 h1androidapp.py`
-## Android Apps with Bounties (Last Updated Thu Feb 26 15:07:13 UTC 2026)
+## Android Apps with Bounties (Last Updated Thu Feb 26 16:03:20 UTC 2026)
 ```
 https://play.google.com/store/apps/details?id=com.ripio.android
 https://play.google.com/store/apps/details?id=lol.onevone

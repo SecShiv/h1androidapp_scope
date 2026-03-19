@@ -2,7 +2,7 @@
 hackerone "in-scope" apps
 
 `python3 h1androidapp.py`
-## Android Apps with Bounties (Last Updated Thu Mar 19 11:00:23 UTC 2026)
+## Android Apps with Bounties (Last Updated Thu Mar 19 11:43:19 UTC 2026)
 ```
 https://play.google.com/store/apps/details?id=com.yelp.android.biz
 https://play.google.com/store/apps/details?id=com.application.zomato.district

@@ -2,7 +2,7 @@
 hackerone "in-scope" apps
 
 `python3 h1androidapp.py`
-## Android Apps with Bounties (Last Updated Fri Apr  3 21:52:54 UTC 2026)
+## Android Apps with Bounties (Last Updated Fri Apr  3 22:38:58 UTC 2026)
 ```
 https://play.google.com/store/apps/details?id=com.scopely.startrek
 https://play.google.com/store/apps/details?id=com.vodafone.mpesa.drc

@@ -1,8 +1,8 @@
 handle,android_app,eligible_for_bounty
 whatnot,https://play.google.com/store/apps/details?id=com.whatnot_mobile,True
 clear,https://play.google.com/store/apps/details?id=com.clearme.clearapp,True
-meesho_bbp,https://play.google.com/store/apps/details?id=com.valmo.valmo,True
 meesho_bbp,https://play.google.com/store/apps/details?id=com.meesho.supply,True
+meesho_bbp,https://play.google.com/store/apps/details?id=com.valmo.valmo,True
 twilio,https://www.authy.com/download/,True
 dailypay_vdp,PNC Earnedit,False
 dailypay_vdp,DailyPay On-Demand Pay,False
@@ -84,22 +84,20 @@ khealth,https://play.google.com/store/apps/details?id=org.hartfordhealthcare.hhc
 khealth,https://play.google.com/store/apps/details?id=ai.kanghealth,True
 capital-one-bounty,https://play.google.com/store/apps/details?id=com.wikibuy.prod.main,True
 capital-one-bounty,https://play.google.com/store/apps/details?id=com.konylabs.capitalone,True
-playtika,https://play.google.com/store/apps/details?id=air.com.buffalo_studios.newflashbingo,True
-playtika,https://play.google.com/store/apps/details?id=com.playtika.caesarscasino,True
-playtika,https://play.google.com/store/apps/details?id=com.jellybtn.boardkings,True
-playtika,https://play.google.com/store/apps/details?id=com.Seriously.BestFiends,True
-playtika,https://play.google.com/store/apps/details?id=net.wooga.junes_journey_hidden_object_mystery_game,True
+playtika,https://play.google.com/store/apps/details?id=com.youdagames.monopolypoker,True
 playtika,https://play.google.com/store/apps/details?id=air.com.playtika.cvs,True
 playtika,https://play.google.com/store/apps/details?id=com.bigblueparrot.pokerfriends,True
 playtika,https://play.google.com/store/apps/details?id=fi.reworks.redecor,True
-playtika,https://play.google.com/store/apps/details?id=com.pacificinteractive.HouseOfFun,True
-playtika,https://play.google.com/store/apps/details?id=com.playtika.wsop.gp,True
 playtika,https://play.google.com/store/apps/details?id=com.Seriously.Phoenix,True
 playtika,https://play.google.com/store/apps/details?id=lol.onevone,True
 playtika,https://play.google.com/store/apps/details?id=net.wooga.switchcraft.googleplay,True
 playtika,https://play.google.com/store/apps/details?id=net.wooga.tropicats_tropical_cats_puzzle_paradise,True
 playtika,https://play.google.com/store/apps/details?id=com.wooga.pearlsperil,True
-playtika,https://play.google.com/store/apps/details?id=com.youdagames.monopolypoker,True
+playtika,https://play.google.com/store/apps/details?id=com.pacificinteractive.HouseOfFun,True
+playtika,https://play.google.com/store/apps/details?id=com.playtika.wsop.gp,True
+playtika,https://play.google.com/store/apps/details?id=com.Seriously.BestFiends,True
+playtika,https://play.google.com/store/apps/details?id=net.wooga.junes_journey_hidden_object_mystery_game,True
+playtika,https://play.google.com/store/apps/details?id=air.com.buffalo_studios.newflashbingo,True
 vodafone_oman,https://play.google.com/store/apps/details?id=om.vodafone.mva,True
 netflix,Netflix Mobile Application for Android,True
 klarna,Klarna Android App (com.myklarnamobile),True
@@ -118,6 +116,8 @@ eufy_security,https://play.google.com/store/apps/details?id=com.anker.charging,T
 eufy_security,https://play.google.com/store/apps/details?id=com.oceanwing.FDMPrint,True
 eufy_security,https://play.google.com/store/apps/details?id=com.oceanwing.battery.cam,True
 eufy_security,https://play.google.com/store/apps/details?id=com.oceanwing.care.cam,True
+mercadolibre,https://play.google.com/store/apps/details?id=com.mercadoenvios.driver,True
+mercadolibre,https://play.google.com/store/apps/details?id=com.mercadoenvios.crowdsourcing,True
 mercadolibre,https://play.google.com/store/apps/details?id=com.mercadoenvios.logistics,True
 mercadolibre,https://play.google.com/store/apps/details?id=com.mercadolibre.android.mplay_tv,True
 temu,https://play.google.com/store/apps/details?id=com.einnovation.temu,True
@@ -129,12 +129,20 @@ boozt,https://play.google.com/store/apps/details?id=com.boozt,True
 boozt,https://play.google.com/store/apps/details?id=com.booztlet,True
 trip_com,https://play.google.com/store/apps/details?id=com.trip.android,True
 compass-bbp,https://play.google.com/store/apps/details?id=com.compass.compass,True
-wonder-vdp,https://play.google.com/store/apps/details?id=com.blueapron.blueapron.release,False
 wonder-vdp,https://play.google.com/store/apps/details?id=com.tastemade.app,False
+wonder-vdp,https://play.google.com/store/apps/details?id=com.blueapron.blueapron.release,False
 wonder-vdp,https://play.google.com/store/apps/details?id=com.grubhub.android,False
 hypr-corp,https://play.google.com/store/apps/details?id=com.hypr.one,True
 coinhako,https://play.google.com/store/apps/details?id=com.coinhako,True
 alshaya,https://play.google.com/store/apps/details?id=com.chipotle.mena,False
+alshaya,Aura MENA - Rewarding Loyalty_MENA_ANDRIOD_com.alshaya.aura,False
+alshaya,H&M MENA - Shop Fashion Online_MENA_ANDROID_com.hm.mena,False
+alshaya,AE + Aerie Middle East_MENA_ANDROID_com.aeo.mena,False
+alshaya,Alo GCC_GCC_ANDROID_com.aloyoga.mena,False
+alshaya,Bath&BodyWorks_MENA_ANDROID_com.bbw.mena,False
+alshaya,Foot Locker MENA_MENA_ANDROID_com.footlocker.mena,False
+alshaya,Victoria's Secret MENA_MENA_ANDROID_com.vs.mena,False
+alshaya,Mothercare MENA_MENA_ANDROID_com.mothercare.mena,False
 wisdomtree,https://play.google.com/store/apps/details?id=com.wisdomtree.wtprime,True
 abn_amro_vdp,https://play.google.com/store/apps/details?id=com.abnamro.nl.buut,False
 aboitizpower_corporation,https://play.google.com/store/apps/details?id=com.aboitiz.watch,False
@@ -145,9 +153,9 @@ ring,https://play.google.com/store/apps/details?id=com.ringapp,True
 ring,https://play.google.com/store/apps/details?id=com.ring.neighborhoods,True
 shutterfly_vdp,Snapfish: Prints + Photo Books / com.snapfish.mobile,False
 shutterfly_vdp,https://play.google.com/store/apps/details?id=com.shutterfly,False
-six-group,https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1,True
-six-group,https://play.google.com/store/apps/details?id=com.sixgroup.debixplus,True
 six-group,https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta,True
+six-group,https://play.google.com/store/apps/details?id=com.sixgroup.debixplus,True
+six-group,https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1,True
 newegg,https://play.google.com/store/apps/details?id=com.newegg.app,True
 eero,https://play.google.com/store/apps/details?id=com.eero.android,True
 paystack-vdp,https://play.google.com/store/apps/details?id=com.paystack.zap,False
@@ -170,23 +178,22 @@ deribit,https://play.google.com/store/apps/details?id=com.deribit,True
 abercrombie_fitch,https://play.google.com/store/apps/details?id=com.abercrombie.abercrombie,False
 abercrombie_fitch,https://play.google.com/store/apps/details?id=com.abercrombie.hollister,False
 monarch_money,https://play.google.com/store/apps/details?id=com.monarchmoney.mobile,False
-allegion,https://play.google.com/store/apps/details?id=com.schlage.overtur,False
-allegion,https://play.google.com/store/apps/details?id=com.allegion.schlagemobileaccess,False
-allegion,https://play.google.com/store/apps/details?id=com.allegion.tigershark,False
-allegion,https://play.google.com/store/apps/details?id=com.allegion.stingray,False
-allegion,https://play.google.com/store/apps/details?id=com.allegion.leopard,False
-allegion,https://play.google.com/store/apps/details?id=com.simonsvoss.mobilekey.adminapp,False
-allegion,https://play.google.com/store/apps/details?id=com.simonsvoss.mobilekey.key4android,False
-allegion,https://play.google.com/store/apps/details?id=com.interflex.key,False
-allegion,https://play.google.com/store/apps/details?id=com.allegion.teachin,False
 allegion,https://play.google.com/store/apps/details?id=com.allegion.cisa.smartaccess,False
 allegion,https://play.google.com/store/apps/details?id=com.allegion.freestyle,False
+allegion,https://play.google.com/store/apps/details?id=com.allegion.leopard,False
+allegion,https://play.google.com/store/apps/details?id=com.allegion.schlagemobileaccess,False
+allegion,https://play.google.com/store/apps/details?id=com.allegion.stingray,False
+allegion,https://play.google.com/store/apps/details?id=com.allegion.teachin,False
+allegion,https://play.google.com/store/apps/details?id=com.allegion.tigershark,False
 allegion,https://play.google.com/store/apps/details?id=com.breeze.hotel,False
 allegion,https://play.google.com/store/apps/details?id=com.breeze.lock&hl=en_AU,False
 allegion,https://play.google.com/store/apps/details?id=com.breezehotel.staff&hl=en_US,False
 allegion,https://play.google.com/store/apps/details?id=com.isonas.puremobile&hl=en_US&gl=US,False
+allegion,https://play.google.com/store/apps/details?id=com.schlage.overtur,False
 allegion,https://play.google.com/store/apps/details?id=com.schlage.smart,False
 allegion,https://play.google.com/store/apps/details?id=com.schlageabode.lock&hl=en_NZ,False
+allegion,https://play.google.com/store/apps/details?id=com.simonsvoss.mobilekey.adminapp,False
+allegion,https://play.google.com/store/apps/details?id=com.simonsvoss.mobilekey.key4android,False
 allegion,https://play.google.com/store/apps/details?id=com.sp_expert_connect.app,False
 allegion,https://play.google.com/store/apps/details?id=com.yonomi,False
 allegion,https://play.google.com/store/apps/details?id=com.yudu.kryptonite.na&hl=en_US&gl=US,False
@@ -197,8 +204,8 @@ amazonvrp-devices,https://play.google.com/store/apps/details?id=com.amazon.storm
 amazonvrp-devices,https://play.google.com/store/apps/details?id=com.amazon.tahoe.freetime,True
 amazonvrp-devices,https://play.google.com/store/apps/details?id=com.amazon.kindle,True
 amazonvrp-devices,https://play.google.com/store/apps/details?id=com.amazon.dee.app,True
-trendyol,https://play.google.com/store/apps/details?id=com.trendyol.go,True
 trendyol,https://play.google.com/store/apps/details?id=com.dolap.android,True
+trendyol,https://play.google.com/store/apps/details?id=com.trendyol.go,True
 trendyol,https://play.google.com/store/apps/details?id=com.trendyol.milla.android,True
 trendyol,https://play.google.com/store/apps/details?id=trendyol.com,True
 tesco,https://play.google.com/store/apps/details?id=com.tesco.grocery.view,False
@@ -213,21 +220,19 @@ callsign,https://play.google.com/store/apps/details?id=com.callsign.app.android,
 shein,https://play.google.com/store/apps/details?id=com.romwe,True
 shein,https://play.google.com/store/apps/details?id=com.zzkko,True
 disney,https://play.google.com/store/apps/details?id=com.espn.score_center,False
-exness,https://play.google.com/store/apps/details?id=com.exness.investments,True
 exness,https://play.google.com/store/apps/details?id=com.exness.android.pa,True
+exness,https://play.google.com/store/apps/details?id=com.exness.investments,True
 gymshark,https://play.google.com/store/apps/details?id=com.gymshark.fitness,False
 gymshark,https://play.google.com/store/apps/details?id=com.gymshark.store,False
 instacart,https://play.google.com/store/apps/details?id=com.instacart.client,True
-alohi,https://play.google.com/store/apps/details?id=plus.scan.android,False
-alohi,https://play.google.com/store/apps/details?id=plus.sign.android,False
 alohi,https://play.google.com/store/apps/details?id=plus.fax.android,False
+alohi,https://play.google.com/store/apps/details?id=plus.sign.android,False
+alohi,https://play.google.com/store/apps/details?id=plus.scan.android,False
 costco,https://play.google.com/store/apps/details?id=com.costco.app.android,False
 mtb,https://play.google.com/store/apps/details?id=com.mtb.mbanking.sc.retail.prod,False
 mtb,https://play.google.com/store/apps/details?id=com.mtb.mobilebanking.ncr,False
 evernote,https://play.google.com/store/apps/details?id=com.evernote,True
 tinder,https://play.google.com/store/apps/details?id=com.tinder,True
-john-deere,https://play.google.com/store/apps/details?id=com.deere.myoperations,False
-john-deere,https://play.google.com/store/apps/details?id=com.deere.equipmentplus,False
 stripe,https://play.google.com/store/apps/details?id=com.stripe.android.dashboard,True
 urbancompany,https://play.google.com/store/apps/details?id=com.urbanclap.provider,True
 urbancompany,https://play.google.com/store/apps/details?id=com.urbanclap.urbanclap,True
@@ -257,9 +262,9 @@ yoti,https://play.google.com/store/apps/details?id=com.yoti.mobile.android.live,
 basecamp,https://play.google.com/store/apps/details?id=com.basecamp.hey,True
 basecamp,https://play.google.com/store/apps/details?id=com.basecamp.bc3,True
 csg-public,Citrix Secure Access client for Android,True
-tiktok,https://play.google.com/store/apps/details?id=com.ss.android.ugc.now,True
 tiktok,https://play.google.com/store/apps/details?id=com.tiktok.tv,True
 tiktok,https://play.google.com/store/apps/details?id=com.zhiliao.musically.livewallpaper,True
+tiktok,https://play.google.com/store/apps/details?id=com.ss.android.ugc.now,True
 tiktok,https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill,True
 tiktok,https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically,True
 tiktok,https://play.google.com/store/apps/details?id=com.tiktokshop.seller,True
@@ -276,17 +281,21 @@ xiaomi,https://play.google.com/store/apps/details?id=com.xiaomi.payment,True
 xiaomi,https://play.google.com/store/apps/details?id=com.xiaomi.micloud.sdk,True
 xiaomi,https://play.google.com/store/apps/details?id=com.miui.cloudbackup,True
 xiaomi,https://play.google.com/store/apps/details?id=com.miui.cloudservice,True
-xiaomi,https://play.google.com/store/apps/details?id=com.xiaomi.mipicks,True
 xiaomi,https://play.google.com/store/apps/details?id=com.xiaomi.market,True
+xiaomi,https://play.google.com/store/apps/details?id=com.xiaomi.mipicks,True
+xiaomi,https://play.google.com/store/apps/details?id=com.android.browser,True
 xiaomi,https://play.google.com/store/apps/details?id=com.xiaomi.account,True
 xiaomi,https://play.google.com/store/apps/details?id=com.mi.global.shop,True
-xiaomi,https://play.google.com/store/apps/details?id=com.android.browser,True
+xiaomi,https://play.google.com/store/apps/details?id=com.xiaomi.smarthome,True
 flutteruki,https://play.google.com/store/apps/developer?id=Sky+Betting+and+Gaming+Apps&gl=uk,True
 flutteruki,https://play.google.com/store/apps/dev?id=9151483005769461618&gl=GB,True
 flutteruki,https://play.google.com/store/apps/dev?id=8912907283039023448&gl=GB,True
 flutteruki,https://play.google.com/store/apps/dev?id=5503565801970655430&gl=gb,True
 insulet_corporation,https://play.google.com/store/apps/details?id=com.insulet.myblue.pdm,False
-amazonvrp,https://play.google.com/store/apps/details?id=com.amazon.primenow.seller.android,True
+amazonvrp,https://play.google.com/store/apps/details?id=com.amazon.aba.application,True
+amazonvrp,https://play.google.com/store/apps/details?id=com.amazon.firetv.recast.blaster.aosp,True
+amazonvrp,https://play.google.com/store/apps/details?id=com.amazon.ihm.candycane,True
+amazonvrp,https://play.google.com/store/apps/details?id=com.amazon.swa.mobileapp,True
 amazonvrp,https://play.google.com/store/apps/details?id=amazon.speech.sim,True
 amazonvrp,https://play.google.com/store/apps/details?id=com.amazon.mp3,True
 amazonvrp,https://play.google.com/store/apps/details?id=com.imdbtv.livingroom,True
@@ -312,9 +321,9 @@ nordsecurity,https://play.google.com/store/apps/details?id=com.nordvpn.android,T
 nordsecurity,https://play.google.com/store/apps/details?id=com.nordvpn.android,True
 nordsecurity,Saily - Android,True
 nordsecurity,https://play.google.com/store/apps/details?id=com.nordpass.android.app.password.manager,True
-keybank,https://play.google.com/store/apps/details?id=com.laurelroad.android,False
 keybank,https://play.google.com/store/apps/details?id=com.keycorp.kmf,False
 keybank,https://play.google.com/store/apps/details?id=com.key.community.tablet,False
+keybank,https://play.google.com/store/apps/details?id=com.laurelroad.android,False
 keybank,https://play.google.com/store/apps/details?id=com.key.android,False
 jnj_mobile,https://play.google.com/store/apps/details?id=com.jnj.mocospace.android,False
 capital-one,https://play.google.com/store/apps/details?id=com.capitalone.credittracker,False
@@ -326,8 +335,8 @@ capital-one,https://play.google.com/store/apps/details?id=com.ie.capitalone.uk,F
 capital-one,https://play.google.com/store/apps/details?id=com.ukcapitalone.creditWise,False
 capital-one,https://play.google.com/store/apps/details?id=com.konylabs.capitalone,False
 starling_bank,https://play.google.com/store/apps/details?id=com.starlingbank.android,False
-creditkarma,https://play.google.com/store/apps/details?id=com.creditkarma.mobile,True
 creditkarma,https://play.google.com/store/apps/details?id=com.creditkarma.mobile.international,True
+creditkarma,https://play.google.com/store/apps/details?id=com.creditkarma.mobile,True
 ford,https://play.google.com/store/apps/details?id=com.ford.remoteaccess,False
 ford,https://play.google.com/store/apps/details?id=com.ford.fordalexa,False
 ford,https://play.google.com/store/apps/details?id=com.ford.fordplay,False
@@ -335,8 +344,8 @@ ford,https://play.google.com/store/apps/details?id=com.ford.performance.android.
 ford,https://play.google.com/store/apps/details?id=com.ford.therightway,False
 ford,https://play.google.com/store/apps/details?id=com.lincoln.lincolnalexa,False
 ford,https://play.google.com/store/apps/details?id=com.lincoln.lincolnplay,False
-ford,https://play.google.com/store/apps/details?id=com.ford.fordpass,False
 ford,https://play.google.com/store/apps/details?id=com.lincoln.lincolnway,False
+ford,https://play.google.com/store/apps/details?id=com.ford.fordpass,False
 hyatt,https://play.google.com/store/apps/details?id=com.Hyatt,True
 superhuman,https://play.google.com/store/apps/details?id=com.grammarly.android.keyboard,True
 superhuman,https://play.google.com/store/apps/details?id=io.coda.codaapp,True
@@ -364,8 +373,8 @@ crypto,https://play.google.com/store/apps/details?id=co.mona.android,True
 crypto,https://play.google.com/store/apps/details?id=com.defi.wallet,True
 toyota,https://play.google.com/store/apps/details?id=in.co.tkm.lexusindia,False
 crowdstrike,play.google.com/store/apps/details?id=com.crowdstrike.falconmobile,True
-bitwarden,https://play.google.com/store/apps/details?id=com.bitwarden.authenticator,False
 bitwarden,https://play.google.com/store/apps/details?id=com.x8bit.bitwarden,False
+bitwarden,https://play.google.com/store/apps/details?id=com.bitwarden.authenticator,False
 grab,https://play.google.com/store/apps/details?id=ovo.id,True
 grab,https://play.google.com/store/apps/details?id=com.grabtaxi.driver2,True
 grab,https://play.google.com/store/apps/details?id=com.grab.merchant,True

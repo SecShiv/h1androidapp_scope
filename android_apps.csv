@@ -135,8 +135,8 @@ aboitizpower_corporation,https://play.google.com/store/apps/details?id=com.outsy
 ring,https://play.google.com/store/apps/details?id=com.immediasemi.android.blink,True
 ring,https://play.google.com/store/apps/details?id=com.ring.neighborhoods,True
 ring,https://play.google.com/store/apps/details?id=com.ringapp,True
-shutterfly_vdp,https://play.google.com/store/apps/details?id=com.shutterfly,False
 shutterfly_vdp,Snapfish: Prints + Photo Books / com.snapfish.mobile,False
+shutterfly_vdp,https://play.google.com/store/apps/details?id=com.shutterfly,False
 six-group,https://play.google.com/store/apps/details?id=com.sixgroup.debixplus,True
 six-group,https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1,True
 six-group,https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta,True
@@ -154,9 +154,9 @@ moonpay,https://play.google.com/store/apps/details?id=com.moonpay,True
 expediagroup_bbp,https://play.google.com/store/apps/details?id=com.expediapartnercentral,False
 expediagroup_bbp,https://play.google.com/store/apps/details?id=com.wotif.android,True
 expediagroup_bbp,https://play.google.com/store/apps/details?id=com.travelocity.android,True
-expediagroup_bbp,https://play.google.com/store/apps/details?id=com.hotwire.hotels,True
 expediagroup_bbp,https://play.google.com/store/apps/details?id=com.ebookers,True
 expediagroup_bbp,https://play.google.com/store/apps/details?id=com.orbitz,True
+expediagroup_bbp,https://play.google.com/store/apps/details?id=com.hotwire.hotels,True
 expediagroup,https://play.google.com/store/apps/details?id=com.expediapartnercentral,False
 resmed,https://play.google.com/store/apps/details?id=com.ectosense.nightowl&hl=en&gl=US,False
 deribit,https://play.google.com/store/apps/details?id=com.deribit,True
@@ -216,9 +216,9 @@ exness,https://play.google.com/store/apps/details?id=com.exness.android.pa,True
 gymshark,https://play.google.com/store/apps/details?id=com.gymshark.store,False
 gymshark,https://play.google.com/store/apps/details?id=com.gymshark.fitness,False
 instacart,https://play.google.com/store/apps/details?id=com.instacart.client,True
-alohi,https://play.google.com/store/apps/details?id=plus.scan.android,False
-alohi,https://play.google.com/store/apps/details?id=plus.fax.android,False
 alohi,https://play.google.com/store/apps/details?id=plus.sign.android,False
+alohi,https://play.google.com/store/apps/details?id=plus.fax.android,False
+alohi,https://play.google.com/store/apps/details?id=plus.scan.android,False
 costco,https://play.google.com/store/apps/details?id=com.costco.app.android,False
 mtb,https://play.google.com/store/apps/details?id=com.mtb.mbanking.sc.retail.prod,False
 mtb,https://play.google.com/store/apps/details?id=com.mtb.mobilebanking.ncr,False
@@ -275,6 +275,7 @@ xiaomi,https://play.google.com/store/apps/details?id=com.xiaomi.mipicks,True
 xiaomi,https://play.google.com/store/apps/details?id=com.xiaomi.micloud.sdk,True
 xiaomi,https://play.google.com/store/apps/details?id=com.miui.cloudbackup,True
 xiaomi,https://play.google.com/store/apps/details?id=com.miui.cloudservice,True
+xiaomi,https://play.google.com/store/apps/details?id=com.mi.global.shop,True
 xiaomi,https://play.google.com/store/apps/details?id=com.xiaomi.account,True
 flutteruki,https://play.google.com/store/apps/developer?id=Sky+Betting+and+Gaming+Apps&gl=uk,True
 flutteruki,https://play.google.com/store/apps/dev?id=9151483005769461618&gl=GB,True
@@ -289,6 +290,7 @@ amazonvrp,https://play.google.com/store/apps/details?id=com.amazon.amazonvideo.l
 amazonvrp,https://play.google.com/store/apps/details?id=com.amazon.mp3.automotiveOS,True
 amazonvrp,https://play.google.com/store/apps/details?id=com.localqueen,True
 amazonvrp,https://play.google.com/store/apps/details?id=com.amazon.helix.prod,True
+amazonvrp,https://play.google.com/store/apps/details?id=com.amazon.tahoe.grownups,True
 picsart,https://play.google.com/store/apps/details?id=com.picsart.studio,False
 goodrx,https://play.google.com/store/apps/details?id=com.goodrx,True
 nordsecurity,Saily - Android,True

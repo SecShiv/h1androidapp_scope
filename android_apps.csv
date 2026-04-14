@@ -47,16 +47,16 @@ bykea,https://play.google.com/store/apps/details?id=com.bykea.pk,True
 bcny,https://play.google.com/store/apps/details?id=company.thebrowser.arc,True
 starbucks_japan,Starbucks Japan Android,True
 starbucks_china,Starbucks China Android,True
-itau_unibanco,https://play.google.com/store/apps/details?id=com.itau&hl=pt_BR,False
-itau_unibanco,https://play.google.com/store/apps/details?id=com.itau.empresas&hl=pt_BR&gl=US,False
-itau_unibanco,https://play.google.com/store/apps/details?id=com.itau.iti&hl=pt_BR&gl=US,False
-itau_unibanco,https://play.google.com/store/apps/details?id=com.itau.investimentos&hl=pt_BR&gl=US,False
 itau_unibanco,https://play.google.com/store/apps/details?id=com.odete.credicard&hl=pt_BR&gl=US,False
 itau_unibanco,https://play.google.com/store/apps/details?id=com.itaucard.activity&hl=pt_BR&gl=US,False
 itau_unibanco,https://play.google.com/store/apps/details?id=com.odete.playersbank&hl=en&gl=US,False
 itau_unibanco,https://play.google.com/store/apps/details?id=com.itau.trader.mobile&hl=en&gl=US,False
 itau_unibanco,https://play.google.com/store/apps/details?id=com.hipercard.app&hl=en&gl=US,False
 itau_unibanco,https://play.google.com/store/apps/details?id=com.credicard.app&hl=pt_BR&gl=US,False
+itau_unibanco,https://play.google.com/store/apps/details?id=com.itau&hl=pt_BR,False
+itau_unibanco,https://play.google.com/store/apps/details?id=com.itau.empresas&hl=pt_BR&gl=US,False
+itau_unibanco,https://play.google.com/store/apps/details?id=com.itau.iti&hl=pt_BR&gl=US,False
+itau_unibanco,https://play.google.com/store/apps/details?id=com.itau.investimentos&hl=pt_BR&gl=US,False
 itau_unibanco,https://play.google.com/store/apps/details?id=com.uy.itau.appitauuypf&pcampaignid=web_share,False
 itau_unibanco,https://play.google.com/store/apps/details?id=uy.com.itau.pagocuentas&pcampaignid=web_share,False
 itau_unibanco,https://play.google.com/store/apps/details?id=com.uy.itau.appile&pcampaignid=web_share,False
@@ -97,9 +97,9 @@ toolsforhumanity,https://play.google.com/store/apps/details?id=com.worldcoin,Tru
 oaknorth_bank,https://play.google.com/store/apps/details?id=com.oaknorth.businessbanking,False
 oaknorth_bank,https://play.google.com/store/apps/details?id=com.oaknorth.oaknorthmobilebanking,False
 eufy_security,https://play.google.com/store/apps/details?id=com.oceanwing.FDMPrint,True
-eufy_security,https://play.google.com/store/apps/details?id=com.oceanwing.battery.cam,True
 eufy_security,https://play.google.com/store/apps/details?id=com.oceanwing.care.cam,True
 eufy_security,https://play.google.com/store/apps/details?id=com.anker.charging,True
+eufy_security,https://play.google.com/store/apps/details?id=com.oceanwing.battery.cam,True
 mercadolibre,https://play.google.com/store/apps/details?id=com.mercadoenvios.logistics,True
 mercadolibre,https://play.google.com/store/apps/details?id=com.mercadolibre.android.mplay_tv,True
 temu,https://play.google.com/store/apps/details?id=com.einnovation.temu,True
@@ -130,8 +130,8 @@ aboitizpower_corporation,https://play.google.com/store/apps/details?id=com.aboit
 aboitizpower_corporation,https://play.google.com/store/apps/details?id=com.aboitizceh&hl=en&gl=US,False
 aboitizpower_corporation,https://play.google.com/store/apps/details?id=com.outsystemsenterprise.apc1.DXPApp,False
 ring,https://play.google.com/store/apps/details?id=com.ringapp,True
-ring,https://play.google.com/store/apps/details?id=com.ring.neighborhoods,True
 ring,https://play.google.com/store/apps/details?id=com.immediasemi.android.blink,True
+ring,https://play.google.com/store/apps/details?id=com.ring.neighborhoods,True
 shutterfly_vdp,Snapfish: Prints + Photo Books / com.snapfish.mobile,False
 shutterfly_vdp,https://play.google.com/store/apps/details?id=com.shutterfly,False
 six-group,https://play.google.com/store/apps/details?id=com.sixgroup.debixplus,True
@@ -155,7 +155,7 @@ expediagroup_bbp,https://play.google.com/store/apps/details?id=com.orbitz,True
 expediagroup_bbp,https://play.google.com/store/apps/details?id=com.expedia.bookings,True
 expediagroup_bbp,https://play.google.com/store/apps/details?id=com.hcom.android,True
 expediagroup_bbp,https://play.google.com/store/apps/details?id=com.vrbo.android,True
-expediagroup_bbp,https://play.google.com/store/apps/details?id=com.ebookers,True
+expediagroup_bbp,https://play.google.com/store/apps/details?id=com.cheaptickets,True
 expediagroup,https://play.google.com/store/apps/details?id=com.expediapartnercentral,False
 resmed,https://play.google.com/store/apps/details?id=com.ectosense.nightowl&hl=en&gl=US,False
 deribit,https://play.google.com/store/apps/details?id=com.deribit,True
@@ -164,22 +164,23 @@ abercrombie_fitch,https://play.google.com/store/apps/details?id=com.abercrombie.
 monarch_money,https://play.google.com/store/apps/details?id=com.monarchmoney.mobile,False
 allegion,https://play.google.com/store/apps/details?id=com.allegion.cisa.openx,False
 allegion,https://play.google.com/store/apps/details?id=com.allegion.cisa.openx_key,False
+allegion,https://play.google.com/store/apps/details?id=com.schlage.overtur,False
+allegion,https://play.google.com/store/apps/details?id=com.allegion.schlagemobileaccess,False
+allegion,https://play.google.com/store/apps/details?id=com.allegion.tigershark,False
+allegion,https://play.google.com/store/apps/details?id=com.allegion.stingray,False
+allegion,https://play.google.com/store/apps/details?id=com.allegion.leopard,False
+allegion,https://play.google.com/store/apps/details?id=com.simonsvoss.mobilekey.adminapp,False
+allegion,https://play.google.com/store/apps/details?id=com.simonsvoss.mobilekey.key4android,False
+allegion,https://play.google.com/store/apps/details?id=com.interflex.key,False
+allegion,https://play.google.com/store/apps/details?id=com.allegion.teachin,False
 allegion,https://play.google.com/store/apps/details?id=com.allegion.cisa.smartaccess,False
 allegion,https://play.google.com/store/apps/details?id=com.allegion.freestyle,False
-allegion,https://play.google.com/store/apps/details?id=com.allegion.leopard,False
-allegion,https://play.google.com/store/apps/details?id=com.allegion.schlagemobileaccess,False
-allegion,https://play.google.com/store/apps/details?id=com.allegion.stingray,False
-allegion,https://play.google.com/store/apps/details?id=com.allegion.teachin,False
-allegion,https://play.google.com/store/apps/details?id=com.allegion.tigershark,False
 allegion,https://play.google.com/store/apps/details?id=com.breeze.hotel,False
 allegion,https://play.google.com/store/apps/details?id=com.breeze.lock&hl=en_AU,False
 allegion,https://play.google.com/store/apps/details?id=com.breezehotel.staff&hl=en_US,False
 allegion,https://play.google.com/store/apps/details?id=com.isonas.puremobile&hl=en_US&gl=US,False
-allegion,https://play.google.com/store/apps/details?id=com.schlage.overtur,False
 allegion,https://play.google.com/store/apps/details?id=com.schlage.smart,False
 allegion,https://play.google.com/store/apps/details?id=com.schlageabode.lock&hl=en_NZ,False
-allegion,https://play.google.com/store/apps/details?id=com.simonsvoss.mobilekey.adminapp,False
-allegion,https://play.google.com/store/apps/details?id=com.simonsvoss.mobilekey.key4android,False
 allegion,https://play.google.com/store/apps/details?id=com.sp_expert_connect.app,False
 allegion,https://play.google.com/store/apps/details?id=com.yonomi,False
 allegion,https://play.google.com/store/apps/details?id=com.yudu.kryptonite.na&hl=en_US&gl=US,False

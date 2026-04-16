@@ -45,16 +45,16 @@ bykea,https://play.google.com/store/apps/details?id=com.bykea.pk,True
 bcny,https://play.google.com/store/apps/details?id=company.thebrowser.arc,True
 starbucks_japan,Starbucks Japan Android,True
 starbucks_china,Starbucks China Android,True
-itau_unibanco,https://play.google.com/store/apps/details?id=com.itau&hl=pt_BR,False
-itau_unibanco,https://play.google.com/store/apps/details?id=com.itau.empresas&hl=pt_BR&gl=US,False
-itau_unibanco,https://play.google.com/store/apps/details?id=com.itau.iti&hl=pt_BR&gl=US,False
-itau_unibanco,https://play.google.com/store/apps/details?id=com.itau.investimentos&hl=pt_BR&gl=US,False
 itau_unibanco,https://play.google.com/store/apps/details?id=com.odete.credicard&hl=pt_BR&gl=US,False
 itau_unibanco,https://play.google.com/store/apps/details?id=com.itaucard.activity&hl=pt_BR&gl=US,False
 itau_unibanco,https://play.google.com/store/apps/details?id=com.odete.playersbank&hl=en&gl=US,False
 itau_unibanco,https://play.google.com/store/apps/details?id=com.itau.trader.mobile&hl=en&gl=US,False
 itau_unibanco,https://play.google.com/store/apps/details?id=com.hipercard.app&hl=en&gl=US,False
 itau_unibanco,https://play.google.com/store/apps/details?id=com.credicard.app&hl=pt_BR&gl=US,False
+itau_unibanco,https://play.google.com/store/apps/details?id=com.itau&hl=pt_BR,False
+itau_unibanco,https://play.google.com/store/apps/details?id=com.itau.empresas&hl=pt_BR&gl=US,False
+itau_unibanco,https://play.google.com/store/apps/details?id=com.itau.iti&hl=pt_BR&gl=US,False
+itau_unibanco,https://play.google.com/store/apps/details?id=com.itau.investimentos&hl=pt_BR&gl=US,False
 itau_unibanco,https://play.google.com/store/apps/details?id=com.uy.itau.appitauuypf&pcampaignid=web_share,False
 itau_unibanco,https://play.google.com/store/apps/details?id=uy.com.itau.pagocuentas&pcampaignid=web_share,False
 itau_unibanco,https://play.google.com/store/apps/details?id=com.uy.itau.appile&pcampaignid=web_share,False
@@ -69,18 +69,17 @@ playtika,https://play.google.com/store/apps/details?id=net.supertreat.solitaire,
 playtika,https://play.google.com/store/apps/details?id=net.wooga.junes_journey_hidden_object_mystery_game,True
 playtika,https://play.google.com/store/apps/details?id=com.Seriously.BestFiends,True
 playtika,https://play.google.com/store/apps/details?id=com.jellybtn.cashkingmobile,True
+playtika,https://play.google.com/store/apps/details?id=com.bigblueparrot.pokerfriends,True
+playtika,https://play.google.com/store/apps/details?id=fi.reworks.redecor,True
 playtika,https://play.google.com/store/apps/details?id=com.youdagames.monopolypoker,True
 playtika,https://play.google.com/store/apps/details?id=air.com.buffalo_studios.newflashbingo,True
-playtika,https://play.google.com/store/apps/details?id=air.com.playtika.slotomania,True
 playtika,https://play.google.com/store/apps/details?id=com.playtika.caesarscasino,True
 playtika,https://play.google.com/store/apps/details?id=com.jellybtn.boardkings,True
+playtika,https://play.google.com/store/apps/details?id=air.com.playtika.slotomania,True
 playtika,https://play.google.com/store/apps/details?id=com.pacificinteractive.HouseOfFun,True
 playtika,https://play.google.com/store/apps/details?id=com.playtika.wsop.gp,True
 playtika,https://play.google.com/store/apps/details?id=com.Seriously.Phoenix,True
 playtika,https://play.google.com/store/apps/details?id=lol.onevone,True
-playtika,https://play.google.com/store/apps/details?id=net.wooga.switchcraft.googleplay,True
-playtika,https://play.google.com/store/apps/details?id=net.wooga.tropicats_tropical_cats_puzzle_paradise,True
-playtika,https://play.google.com/store/apps/details?id=com.wooga.pearlsperil,True
 vodafone_oman,https://play.google.com/store/apps/details?id=om.vodafone.mva,True
 netflix,Netflix Mobile Application for Android,True
 klarna,Klarna Android App (com.myklarnamobile),True
@@ -96,8 +95,8 @@ toolsforhumanity,https://play.google.com/store/apps/details?id=com.worldcoin,Tru
 oaknorth_bank,https://play.google.com/store/apps/details?id=com.oaknorth.businessbanking,False
 oaknorth_bank,https://play.google.com/store/apps/details?id=com.oaknorth.oaknorthmobilebanking,False
 eufy_security,https://play.google.com/store/apps/details?id=com.oceanwing.FDMPrint,True
-eufy_security,https://play.google.com/store/apps/details?id=com.oceanwing.care.cam,True
 eufy_security,https://play.google.com/store/apps/details?id=com.anker.charging,True
+eufy_security,https://play.google.com/store/apps/details?id=com.oceanwing.care.cam,True
 eufy_security,https://play.google.com/store/apps/details?id=com.oceanwing.battery.cam,True
 mercadolibre,https://play.google.com/store/apps/details?id=com.mercadoenvios.logistics,True
 mercadolibre,https://play.google.com/store/apps/details?id=com.mercadolibre.android.mplay_tv,True
@@ -131,8 +130,8 @@ aboitizpower_corporation,https://play.google.com/store/apps/details?id=com.outsy
 ring,https://play.google.com/store/apps/details?id=com.ringapp,True
 ring,https://play.google.com/store/apps/details?id=com.immediasemi.android.blink,True
 ring,https://play.google.com/store/apps/details?id=com.ring.neighborhoods,True
-shutterfly_vdp,https://play.google.com/store/apps/details?id=com.shutterfly,False
 shutterfly_vdp,Snapfish: Prints + Photo Books / com.snapfish.mobile,False
+shutterfly_vdp,https://play.google.com/store/apps/details?id=com.shutterfly,False
 six-group,https://play.google.com/store/apps/details?id=com.sixgroup.debixplus,True
 six-group,https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1,True
 six-group,https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta,True
@@ -149,12 +148,13 @@ superbet,https://play.google.com/store/apps/details?id=ro.superbet.games,True
 moonpay,https://play.google.com/store/apps/details?id=com.moonpay,True
 expediagroup_bbp,https://play.google.com/store/apps/details?id=com.expediapartnercentral,False
 expediagroup_bbp,https://play.google.com/store/apps/details?id=com.travelocity.android,True
-expediagroup_bbp,https://play.google.com/store/apps/details?id=com.orbitz,True
 expediagroup_bbp,https://play.google.com/store/apps/details?id=com.hotwire.hotels,True
+expediagroup_bbp,https://play.google.com/store/apps/details?id=com.orbitz,True
 expediagroup_bbp,https://play.google.com/store/apps/details?id=com.expedia.bookings,True
 expediagroup_bbp,https://play.google.com/store/apps/details?id=com.hcom.android,True
 expediagroup_bbp,https://play.google.com/store/apps/details?id=com.vrbo.android,True
 expediagroup_bbp,https://play.google.com/store/apps/details?id=com.cheaptickets,True
+expediagroup_bbp,https://play.google.com/store/apps/details?id=com.ebookers,True
 expediagroup_bbp,https://play.google.com/store/apps/details?id=com.wotif.android,True
 expediagroup,https://play.google.com/store/apps/details?id=com.expediapartnercentral,False
 resmed,https://play.google.com/store/apps/details?id=com.ectosense.nightowl&hl=en&gl=US,False
@@ -199,7 +199,6 @@ tesco,https://play.google.com/store/apps/details?id=com.tesco.grocery.view,False
 fidelity,https://play.google.com/store/apps/details?id=com.fmr.eca.android.wealthscape,False
 fidelity,https://play.google.com/store/apps/details?id=com.fmr.eca.android.wealthscapeinvestor,False
 fidelity,https://play.google.com/store/apps/details?id=com.fidelity.hcg.health,False
-fidelity,https://play.google.com/store/apps/details?id=com.fidelity.sqrl,False
 metamask,https://play.google.com/store/apps/details?id=io.metamask,True
 oanda,https://play.google.com/store/apps/details?id=com.oanda.fxtrade,False
 linkedin,https://play.google.com/store/apps/details?id=com.linkedin.android,True
@@ -214,9 +213,9 @@ exness,https://play.google.com/store/apps/details?id=com.exness.android.pa,True
 gymshark,https://play.google.com/store/apps/details?id=com.gymshark.store,False
 gymshark,https://play.google.com/store/apps/details?id=com.gymshark.fitness,False
 instacart,https://play.google.com/store/apps/details?id=com.instacart.client,True
-alohi,https://play.google.com/store/apps/details?id=plus.scan.android,False
-alohi,https://play.google.com/store/apps/details?id=plus.fax.android,False
 alohi,https://play.google.com/store/apps/details?id=plus.sign.android,False
+alohi,https://play.google.com/store/apps/details?id=plus.fax.android,False
+alohi,https://play.google.com/store/apps/details?id=plus.scan.android,False
 costco,https://play.google.com/store/apps/details?id=com.costco.app.android,False
 mtb,https://play.google.com/store/apps/details?id=com.mtb.mbanking.sc.retail.prod,False
 mtb,https://play.google.com/store/apps/details?id=com.mtb.mobilebanking.ncr,False
@@ -273,6 +272,7 @@ xiaomi,https://play.google.com/store/apps/details?id=com.xiaomi.micloud.sdk,True
 xiaomi,https://play.google.com/store/apps/details?id=com.miui.cloudbackup,True
 xiaomi,https://play.google.com/store/apps/details?id=com.miui.cloudservice,True
 xiaomi,https://play.google.com/store/apps/details?id=com.mi.global.shop,True
+xiaomi,https://play.google.com/store/apps/details?id=com.android.browser,True
 flutteruki,https://play.google.com/store/apps/developer?id=Sky+Betting+and+Gaming+Apps&gl=uk,True
 flutteruki,https://play.google.com/store/apps/dev?id=9151483005769461618&gl=GB,True
 flutteruki,https://play.google.com/store/apps/dev?id=8912907283039023448&gl=GB,True
@@ -335,8 +335,8 @@ fanduel,https://play.google.com/store/apps/details?id=com.fanduel.android.self,T
 flickr,https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.flickr,True
 matomo,https://play.google.com/store/apps/details?id=org.piwik.mobile2,False
 paypal,https://play.google.com/store/apps/details?id=com.xoom.android.app,True
-paypal,https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile,True
 paypal,https://play.google.com/store/apps/details?id=com.paypal.merchant.client,True
+paypal,https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile,True
 paypal,https://play.google.com/store/apps/details?id=com.venmo,True
 bitmex,https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet,True
 bitmex,https://play.google.com/store/apps/details?id=com.bitmex.app.android,True
@@ -378,8 +378,8 @@ yelp,https://play.google.com/store/apps/details?id=com.yelp.android,True
 nextcloud,https://play.google.com/store/apps/details?id=com.nextcloud.talk2,True
 moneybird,https://play.google.com/store/apps/details?id=com.moneybird.android,True
 eternal,https://play.google.com/store/apps/details?id=com.grofers.customerapp,True
-eternal,https://play.google.com/store/apps/details?id=com.blinkit.bistro,True
 eternal,https://play.google.com/store/apps/details?id=com.application.zomato.district,True
+eternal,https://play.google.com/store/apps/details?id=com.blinkit.bistro,True
 eternal,https://play.google.com/store/apps/details?id=com.application.zomatomerchant,False
 eternal,https://play.google.com/store/apps/details?id=com.application.zomato,True
 snapchat,https://play.google.com/store/apps/details?id=com.bitstrips.imoji,True
@@ -390,8 +390,8 @@ ui,https://play.google.com/store/apps/details?id=com.ubnt.discovery.app,True
 ui,https://play.google.com/store/apps/details?id=com.ubnt.ucrm,False
 adobe,https://play.google.com/store/apps/details?id=com.adobe.lrmobile,True
 adobe,https://play.google.com/store/apps/details?id=com.adobe.reader,True
-adobe,https://play.google.com/store/apps/details?id=com.adobe.workfront,True
 adobe,https://play.google.com/store/apps/details?id=com.adobe.scan.android,True
+adobe,https://play.google.com/store/apps/details?id=com.adobe.workfront,True
 airbnb,https://play.google.com/store/apps/details?id=com.airbnb.android,True
 vimeo,https://play.google.com/store/apps/details?id=com.vimeocreate.videoeditor.moviemaker,True
 vimeo,https://play.google.com/store/apps/details?id=com.livestream.livestream,True

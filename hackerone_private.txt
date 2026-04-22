@@ -29,6 +29,7 @@ https://hackerone.com/166990db-9b1f-45ff-8ec7-3a4fba310181/embedded_submissions/
 https://hackerone.com/16d84d2b-1656-43b8-bcb6-5d788e00831c/embedded_submissions/new
 https://hackerone.com/17080489-f75f-4381-8016-b383fb1de4e6/embedded_submissions/new
 https://hackerone.com/1866661b-6691-406e-a424-69b9e17ad37a/embedded_submissions/new
+https://hackerone.com/18eabc29-761d-4062-8376-5298660ac9d8/embedded_submissions/new?locale=en
 https://hackerone.com/1a4df297-9420-4cb1-9ba5-d7394d44713c/embedded_submissions/new
 https://hackerone.com/1a6130fc-761f-4aa1-88ee-817a3c2684ae/embedded_submissions/new
 https://hackerone.com/1abfeed1-9401-43d4-900d-bba352de9301/embedded_submissions/new
@@ -92,6 +93,7 @@ https://hackerone.com/43e54855-3564-4588-8d9a-710a0089fe6f/embedded_submissions/
 https://hackerone.com/4471c08b-82bd-4544-b44b-b264af2f3949/embedded_submissions/new
 https://hackerone.com/44c348eb-e030-4273-b445-d4a2f6f83ba8/embedded_submissions/new
 https://hackerone.com/45c65b7d-0561-49c4-bf79-24e61b93a118/embedded_submissions/new
+https://hackerone.com/47b5b7a0-ca83-4841-a0ce-341d80daf3ba/embedded_submissions/new?locale=en
 https://hackerone.com/488e1b85-4164-4dd8-8bd5-8a3e0972d798/embedded_submissions/new
 https://hackerone.com/48df0bb0-0f0a-481a-a069-b42dc9ba7949/embedded_submissions/new
 https://hackerone.com/48f01a92-5c54-483a-b2b8-be9f8a562540/embedded_submissions/new?locale=en
@@ -221,6 +223,7 @@ https://hackerone.com/9d4e972f-ea05-46c6-8de4-932a03070b46/embedded_submissions/
 https://hackerone.com/9d4ea6b8-2162-4058-88fe-037ae1f04aab/embedded_submissions/new
 https://hackerone.com/9d6b46bb-2245-4cfe-90d7-1acf31d6527e/embedded_submissions/new
 https://hackerone.com/9dc0a248-b050-4348-ae00-d4f880d7309f/embedded_submissions/new
+https://hackerone.com/9e5d6457-2480-450b-b1d2-b6d84150c164/embedded_submissions/new
 https://hackerone.com/9e8232a8-32cf-4b29-b8a1-c627a3e89ba9/embedded_submissions/new?locale=en
 https://hackerone.com/9edbb3b3-3a14-4d23-bb14-1120c7054ca2/embedded_submissions/new
 https://hackerone.com/9f534e7c-c343-4da1-9bb4-772f11af077c/embedded_submissions/new

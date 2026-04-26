@@ -4,8 +4,8 @@ clear,https://play.google.com/store/apps/details?id=com.clearme.clearapp,True
 meesho_bbp,https://play.google.com/store/apps/details?id=com.valmo.valmo,True
 meesho_bbp,https://play.google.com/store/apps/details?id=com.meesho.supply,True
 twilio,https://www.authy.com/download/,True
-dailypay_vdp,PNC Earnedit,False
 dailypay_vdp,DailyPay On-Demand Pay,False
+dailypay_vdp,PNC Earnedit,False
 banco_plata,https://play.google.com/store/apps/details?id=dif.tech.plata,True
 bankunited,https://play.google.com/store/apps/details?id=com.leap.bankunited,False
 notion,https://play.google.com/store/apps/details?id=notion.id,True
@@ -121,11 +121,11 @@ abn_amro_vdp,https://play.google.com/store/apps/details?id=com.abnamro.nl.buut,F
 aboitizpower_corporation,https://play.google.com/store/apps/details?id=com.aboitiz.watch,False
 aboitizpower_corporation,https://play.google.com/store/apps/details?id=com.aboitizceh&hl=en&gl=US,False
 aboitizpower_corporation,https://play.google.com/store/apps/details?id=com.outsystemsenterprise.apc1.DXPApp,False
-ring,https://play.google.com/store/apps/details?id=com.immediasemi.android.blink,True
 ring,https://play.google.com/store/apps/details?id=com.ring.neighborhoods,True
+ring,https://play.google.com/store/apps/details?id=com.immediasemi.android.blink,True
 ring,https://play.google.com/store/apps/details?id=com.ringapp,True
-shutterfly_vdp,https://play.google.com/store/apps/details?id=com.shutterfly,False
 shutterfly_vdp,Snapfish: Prints + Photo Books / com.snapfish.mobile,False
+shutterfly_vdp,https://play.google.com/store/apps/details?id=com.shutterfly,False
 six-group,https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1,True
 six-group,https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta,True
 six-group,https://play.google.com/store/apps/details?id=com.sixgroup.debixplus,True
@@ -191,6 +191,7 @@ tesco,https://play.google.com/store/apps/details?id=com.tesco.grocery.view,False
 fidelity,https://play.google.com/store/apps/details?id=com.fmr.eca.android.wealthscape,False
 fidelity,https://play.google.com/store/apps/details?id=com.fmr.eca.android.wealthscapeinvestor,False
 fidelity,https://play.google.com/store/apps/details?id=com.fidelity.hcg.health,False
+fidelity,https://play.google.com/store/apps/details?id=com.fidelity.sqrl,False
 metamask,https://play.google.com/store/apps/details?id=io.metamask,True
 oanda,https://play.google.com/store/apps/details?id=com.oanda.fxtrade,False
 linkedin,https://play.google.com/store/apps/details?id=com.linkedin.android,True
@@ -366,6 +367,7 @@ starbucks,https://play.google.com/store/apps/details?id=com.starbucks.mobilecard
 brave,https://play.google.com/store/apps/details?id=com.brave.browser,True
 yelp,https://play.google.com/store/apps/details?id=com.yelp.android.biz,True
 yelp,https://play.google.com/store/apps/details?id=com.yelp.android,True
+nextcloud,https://play.google.com/store/apps/details?id=com.nextcloud.client,False
 moneybird,https://play.google.com/store/apps/details?id=com.moneybird.android,True
 eternal,https://play.google.com/store/apps/details?id=com.application.zomato.district,True
 eternal,https://play.google.com/store/apps/details?id=com.application.zomatomerchant,False
@@ -381,7 +383,6 @@ ui,https://play.google.com/store/apps/details?id=com.ubnt.ucrm,False
 adobe,https://play.google.com/store/apps/details?id=com.adobe.lrmobile,True
 adobe,https://play.google.com/store/apps/details?id=com.adobe.reader,True
 adobe,https://play.google.com/store/apps/details?id=com.adobe.workfront,True
-adobe,https://play.google.com/store/apps/details?id=com.adobe.scan.android,True
 airbnb,https://play.google.com/store/apps/details?id=com.airbnb.android,True
 vimeo,https://play.google.com/store/apps/details?id=com.vimeocreate.videoeditor.moviemaker,True
 vimeo,https://play.google.com/store/apps/details?id=com.livestream.livestream,True

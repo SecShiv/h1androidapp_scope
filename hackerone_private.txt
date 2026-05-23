@@ -190,7 +190,6 @@ https://hackerone.com/7fca7df2-7909-4db3-8bfd-b28a457af5fa/embedded_submissions/
 https://hackerone.com/80406e7d-3cc1-4d67-b27e-592e410922a2/embedded_submissions/new
 https://hackerone.com/80d37fad-19a7-4823-898b-2d9b96aa9941/embedded_submissions/new
 https://hackerone.com/81892a26-2ee2-4d58-9eaa-73aec3508844/embedded_submissions/new
-https://hackerone.com/831ae4fc-a834-4a6c-aa14-d2d6c6e09da2/embedded_submissions/new?locale=en
 https://hackerone.com/839ff2f1-efe0-42b7-860a-d2305510cab1/embedded_submissions/new?locale=en
 https://hackerone.com/83ab5a4c-5e93-411b-ab68-eeffe9a1c012/embedded_submissions/new?locale=en
 https://hackerone.com/84cbdcf8-4e22-46ba-933f-46ed1b49a7e3/embedded_submissions/new
@@ -221,7 +220,6 @@ https://hackerone.com/94a9d626-5915-4e89-82ca-320fb93410d5/embedded_submissions/
 https://hackerone.com/94cd85d2-e853-4e55-9d28-478308d86299/embedded_submissions/new
 https://hackerone.com/94fd9cb5-0b38-4b47-bb78-c6372420c76e/embedded_submissions/new
 https://hackerone.com/94fd9cb5-0b38-4b47-bb78-c6372420c76e/embedded_submissions/new?locale=de
-https://hackerone.com/94fd9cb5-0b38-4b47-bb78-c6372420c76e/embedded_submissions/new?locale=en
 https://hackerone.com/94fd9cb5-0b38-4b47-bb78-c6372420c76e/embedded_submissions/new?locale=es
 https://hackerone.com/94fd9cb5-0b38-4b47-bb78-c6372420c76e/embedded_submissions/new?locale=fr
 https://hackerone.com/94fd9cb5-0b38-4b47-bb78-c6372420c76e/embedded_submissions/new?locale=fr%5C
@@ -280,8 +278,3 @@ https://hackerone.com/ae0f6903-ebbc-4b92-9f6f-40f4ebd36cde/embedded_submissions/
 https://hackerone.com/ae4a1ac0-1501-43a3-a0f9-0f8c09c31f48/embedded_submissions/new
 https://hackerone.com/ae4a1ac0-1501-43a3-a0f9-0f8c09c31f48/embedded_submissions/new?locale=en
 https://hackerone.com/ae9aab0d-7dc9-49b1-b87e-55628d4fa8ed/embedded_submissions/new
-https://hackerone.com/cda3ef79-05ba-4d48-9138-5da543d24bde/embedded_submissions/new?locale=en
-https://hackerone.com/d87b5f31-015d-42ba-a507-1deb9f129d4c/embedded_submissions/new?locale=en
-https://hackerone.com/e025819c-b737-4902-9c55-c3f667e39fed/embedded_submissions/new?locale=en
-https://hackerone.com/f9a0fe22-dfce-4a26-8a05-d6a5816ee4bb/embedded_submissions/new
-https://hackerone.com/fb61cc28-69cc-4757-a084-bedd1a9d4352/embedded_submissions/new

@@ -2,7 +2,7 @@
 hackerone "in-scope" apps
 
 `python3 h1androidapp.py`
-## Android Apps with Bounties (Last Updated Fri Jul  3 22:23:59 UTC 2026)
+## Android Apps with Bounties (Last Updated Sat Jul  4 00:10:09 UTC 2026)
 ```
 https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.flickr
 Starbucks Japan Android

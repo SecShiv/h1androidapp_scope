@@ -24,6 +24,7 @@ https://hackerone.com/10d918fb-7ffc-45c8-883e-b9341777cecd/embedded_submissions/
 https://hackerone.com/1108fdb2-e516-445d-b36a-cee465f16e4a/embedded_submissions/new
 https://hackerone.com/120dd733-befb-4245-a03f-2bf74516430b/embedded_submissions/new
 https://hackerone.com/12189d64-dc52-4503-83fe-1ca856b14057/embedded_submissions/new
+https://hackerone.com/12dd0261-a73f-4d54-84e3-82f63b128f2d/embedded_submissions/new?locale=en
 https://hackerone.com/139c0e4f-5b34-470a-b81e-aa8740c3e66e/embedded_submissions/new
 https://hackerone.com/139c0e4f-5b34-470a-b81e-aa8740c3e66e/embedded_submissions/new?_fsi=hnHRMsYb
 https://hackerone.com/16175a13-cc1d-4314-9a3e-36fca557a1da/embedded_submissions/new
@@ -245,6 +246,7 @@ https://hackerone.com/96bb91ec-e639-42e6-85e0-a14739cecec4/embedded_submissions/
 https://hackerone.com/98181cae-1ded-4b9e-85dd-6025736b52a2/embedded_submissions/new?locale=en
 https://hackerone.com/999ae107-1d3c-4d2f-abc2-c9604e0eec5c/embedded_submissions/new
 https://hackerone.com/99f64a0d-49bd-4049-a9ee-f72089073500/embedded_submissions/new
+https://hackerone.com/9aad80a2-4a96-41da-a6c2-dd512bea42ba/embedded_submissions/new?locale=en
 https://hackerone.com/9b82f24c-f573-4d53-bc4b-0ada58414ca1/embedded_submissions/new
 https://hackerone.com/9cb2ace1-1481-4bfb-aa62-dac2f59fc2e1/embedded_submissions/new
 https://hackerone.com/9d0c5db9-3dec-4ff2-9bc9-b8bea95d8923/embedded_submissions/new
@@ -289,7 +291,3 @@ https://hackerone.com/ad0f16a9-bdd0-419a-a36c-9f8e4519020f/embedded_submissions/
 https://hackerone.com/ad18e15c-f04f-40d5-b4c3-3fb84e6d4ec5/embedded_submissions/new
 https://hackerone.com/ad31be6a-205b-4e38-8440-165c5bebd57c/embedded_submissions/new
 https://hackerone.com/ad9a3b38-b407-4d2f-b95c-67a8adb42b2d/embedded_submissions/new
-https://hackerone.com/ae0f6903-ebbc-4b92-9f6f-40f4ebd36cde/embedded_submissions/new?lb-mode=overlay
-https://hackerone.com/ae4a1ac0-1501-43a3-a0f9-0f8c09c31f48/embedded_submissions/new
-https://hackerone.com/ae4a1ac0-1501-43a3-a0f9-0f8c09c31f48/embedded_submissions/new?locale=en
-https://hackerone.com/ae9aab0d-7dc9-49b1-b87e-55628d4fa8ed/embedded_submissions/new

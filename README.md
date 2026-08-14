@@ -2,7 +2,7 @@
 hackerone "in-scope" apps
 
 `python3 h1androidapp.py`
-## Android Apps with Bounties (Last Updated Fri Aug 14 04:51:15 UTC 2026)
+## Android Apps with Bounties (Last Updated Fri Aug 14 06:18:50 UTC 2026)
 ```
 Starbucks Japan Android
 https://play.google.com/store/apps/details?id=com.adobe.scan.android

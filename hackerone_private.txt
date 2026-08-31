@@ -293,4 +293,3 @@ https://hackerone.com/ac3f6cc7-1d04-406f-9e16-bad3bc905938/embedded_submissions/
 https://hackerone.com/ac818ab4-dcc1-4f5b-99f6-57df1614f1b9/embedded_submissions/new
 https://hackerone.com/ac818ab4-dcc1-4f5b-99f6-57df1614f1b9/embedded_submissions/new?locale=en
 https://hackerone.com/ad31be6a-205b-4e38-8440-165c5bebd57c/embedded_submissions/new
-https://hackerone.com/d0ab9070-d14a-4a82-a509-5102b548b399/embedded_submissions/new

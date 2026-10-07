@@ -315,5 +315,3 @@ https://hackerone.com/ae0f6903-ebbc-4b92-9f6f-40f4ebd36cde/embedded_submissions/
 https://hackerone.com/ae4a1ac0-1501-43a3-a0f9-0f8c09c31f48/embedded_submissions/new
 https://hackerone.com/ae4a1ac0-1501-43a3-a0f9-0f8c09c31f48/embedded_submissions/new?locale=en
 https://hackerone.com/ae9aab0d-7dc9-49b1-b87e-55628d4fa8ed/embedded_submissions/new
-https://hackerone.com/b3b5c89f-1d68-43dd-b876-f7c9af02d41c/embedded_submissions/new?locale=en
-https://hackerone.com/b4a39d35-066f-43ee-8807-64b1e4775f6e/embedded_submissions/new

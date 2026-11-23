@@ -2,7 +2,7 @@
 hackerone "in-scope" apps
 
 `python3 h1androidapp.py`
-## Android Apps with Bounties (Last Updated Sun Nov 22 18:18:42 UTC 2026)
+## Android Apps with Bounties (Last Updated Mon Nov 23 00:03:12 UTC 2026)
 ```
 
 ```
